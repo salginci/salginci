@@ -15,7 +15,7 @@
   <a href="https://medium.com/@salginci"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.credly.com/users/ozgur-salginci.036c2d5c/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
   <a href="https://x.com/salginci"><img alt="X" src="https://img.shields.io/badge/@salginci-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:ozgur@salginci.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:salginci@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
