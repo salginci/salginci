@@ -1,17 +1,17 @@
 <h1 align="center">Ozgur Salginci</h1>
 
 <p align="center">
-  <b>AI Systems Architect</b> &nbsp;·&nbsp; EPAM Systems
+  <b>Cloud Engineering Manager</b> &nbsp;·&nbsp; EPAM Systems
 </p>
 
 <p align="center">
-  I architect <b>production agent platforms</b> on Google Cloud — Gemini Enterprise agent<br/>
-  development, multi-agent orchestration, context engineering, and the governance<br/>
-  layer that makes agentic systems safe to ship.
+  I lead cloud engineering teams and architect <b>production agent platforms</b> on<br/>
+  Google Cloud — Gemini Enterprise agent development, multi-agent orchestration,<br/>
+  context engineering, and the governance layer that makes agents safe to ship.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salginci"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ozgur-salginci"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@salginci"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.credly.com/users/ozgur-salginci.036c2d5c/badges"><img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
   <a href="https://x.com/salginci"><img alt="X" src="https://img.shields.io/badge/@salginci-000000?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -137,7 +137,7 @@ to bring this material to the Turkish developer community.
 | [A Production-Grade AI Agent Request Is More Than a Prompt](https://medium.com/@salginci/a-production-grade-ai-agent-request-is-more-than-a-prompt-646b2e3d1264) | `Context engineering` |
 | [An Agent Hits the Company Wall](https://medium.com/@salginci/an-agent-hits-the-company-wall-c0cbafbe7588) | `Agentic Internet` |
 
-📝 **[All articles on Medium](https://medium.com/@salginci)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/salginci)** &nbsp;·&nbsp; 🧪 Building in public at **[@agentic-internet](https://github.com/agentic-internet)**
+📝 **[All articles on Medium](https://medium.com/@salginci)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/ozgur-salginci)** &nbsp;·&nbsp; 🧪 Building in public at **[@agentic-internet](https://github.com/agentic-internet)**
 
 ---
 
