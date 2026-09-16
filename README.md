@@ -21,7 +21,7 @@
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="26" align="top" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/google-cloud.svg" height="26" align="top" alt="Google Cloud">
   &nbsp;Google Cloud
 </h2>
 
