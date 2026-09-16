@@ -20,7 +20,10 @@
 
 ---
 
-## ☁️ Google Cloud
+<h2>
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="26" align="top" alt="">
+  &nbsp;Google Cloud
+</h2>
 
 <p align="center">
   <img alt="Gemini Enterprise Agent Development" src="https://img.shields.io/badge/Gemini_Enterprise-Agent_Development_Specialist-4285F4?style=for-the-badge&labelColor=1F1F1F">
@@ -40,7 +43,10 @@
 
 ---
 
-## 🏆 Claude Certified — all four, 4 / 4
+<h2>
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="26" align="top" alt="">
+  &nbsp;Claude Certified — all four, 4 / 4
+</h2>
 
 <p align="center">
   <img alt="Claude Certified Architect, Professional" src="https://img.shields.io/badge/Architect-PROFESSIONAL-D97757?style=for-the-badge&labelColor=1F1F1F">
