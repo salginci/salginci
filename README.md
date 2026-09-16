@@ -141,14 +141,6 @@ to bring this material to the Turkish developer community.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=salginci&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salginci&layout=compact&hide_border=true&theme=graywhite&langs_count=8">
-</p>
-
----
 
 <p align="center">
   <sub>Opinions are my own and not the views of my employer.</sub>
